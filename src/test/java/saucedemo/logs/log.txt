@@ -1,0 +1,49 @@
+
+2025-01-22 10:16:44 INFO  Log:16 - vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+2025-01-22 10:16:44 INFO  Log:17 - *******************************     TEST STARTED     **********************************
+2025-01-22 10:16:44 INFO  Log:18 - ---------------------------------------------------------------------------------------
+2025-01-22 10:16:44 INFO  Log:19 - SCENARIO: "Select the highest price item and add to cart" started.
+2025-01-22 10:16:45 INFO  Log:39 - Navigated to https://www.saucedemo.com/ website
+2025-01-22 10:16:46 INFO  Log:39 - User logged in successfully with "standard_user" role
+2025-01-22 10:16:46 INFO  Log:39 - The most expensive product's price is $49.99
+2025-01-22 10:16:46 INFO  Log:39 - The most expensive product has been added to the cart
+2025-01-22 10:16:46 INFO  Log:39 - User clicked on Cart button
+2025-01-22 10:16:47 INFO  Log:39 - Actual max product price is matching with the expected max product price
+2025-01-22 10:16:47 INFO  Log:39 - Product has been removed from the cart
+2025-01-22 10:16:47 INFO  Log:39 - User logged out successfully...
+2025-01-22 10:16:48 INFO  Log:27 - SCENARIO: "Select the highest price item and add to cart" ended.
+2025-01-22 10:16:48 INFO  Log:28 - ---------------------------------------------------------------------------------------
+2025-01-22 10:16:48 INFO  Log:29 - *********************************     TEST ENDED     **********************************
+2025-01-22 10:16:48 INFO  Log:30 - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-22 11:03:19 INFO  Log:16 - vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+2025-01-22 11:03:19 INFO  Log:17 - *******************************     TEST STARTED     **********************************
+2025-01-22 11:03:19 INFO  Log:18 - ---------------------------------------------------------------------------------------
+2025-01-22 11:03:19 INFO  Log:19 - SCENARIO: "Select the highest price item and add to cart" started.
+2025-01-22 11:03:21 INFO  Log:39 - Navigated to https://www.saucedemo.com/ website
+2025-01-22 11:03:21 INFO  Log:39 - User logged in successfully with "standard_user" role
+2025-01-22 11:03:21 INFO  Log:39 - The most expensive product's price is $49.99
+2025-01-22 11:03:21 INFO  Log:39 - The most expensive product has been added to the cart
+2025-01-22 11:03:22 INFO  Log:39 - User clicked on Cart button
+2025-01-22 11:03:22 INFO  Log:39 - Actual max product price is matching with the expected max product price
+2025-01-22 11:03:22 INFO  Log:39 - Product has been removed from the cart
+2025-01-22 11:03:22 INFO  Log:39 - User logged out successfully...
+2025-01-22 11:03:23 INFO  Log:27 - SCENARIO: "Select the highest price item and add to cart" ended.
+2025-01-22 11:03:23 INFO  Log:28 - ---------------------------------------------------------------------------------------
+2025-01-22 11:03:23 INFO  Log:29 - *********************************     TEST ENDED     **********************************
+2025-01-22 11:03:23 INFO  Log:30 - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-01-22 11:23:53 INFO  Log:16 - vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+2025-01-22 11:23:53 INFO  Log:17 - *******************************     TEST STARTED     **********************************
+2025-01-22 11:23:53 INFO  Log:18 - ---------------------------------------------------------------------------------------
+2025-01-22 11:23:53 INFO  Log:19 - SCENARIO: "Select the highest price item and add to cart" started.
+2025-01-22 11:23:54 INFO  Log:39 - Navigated to https://www.saucedemo.com/ website
+2025-01-22 11:23:55 INFO  Log:39 - User logged in successfully with "standard_user" role
+2025-01-22 11:23:56 INFO  Log:39 - The most expensive product's price is $49.99
+2025-01-22 11:23:56 INFO  Log:39 - The most expensive product has been added to the cart
+2025-01-22 11:23:56 INFO  Log:39 - User clicked on Cart button
+2025-01-22 11:23:56 INFO  Log:39 - Actual max product price is matching with the expected max product price
+2025-01-22 11:23:56 INFO  Log:39 - Product has been removed from the cart
+2025-01-22 11:23:57 INFO  Log:39 - User logged out successfully...
+2025-01-22 11:23:58 INFO  Log:27 - SCENARIO: "Select the highest price item and add to cart" ended.
+2025-01-22 11:23:58 INFO  Log:28 - ---------------------------------------------------------------------------------------
+2025-01-22 11:23:58 INFO  Log:29 - *********************************     TEST ENDED     **********************************
+2025-01-22 11:23:58 INFO  Log:30 - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
